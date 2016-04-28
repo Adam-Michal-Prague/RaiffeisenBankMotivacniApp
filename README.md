@@ -1,3 +1,5 @@
 # RaiffeisenBankMotivacniApp
 Motivacni aplikace pro HR Raiffeisenbank
-bz @Adam-Michal-Prague
+by @Adam-Michal-Prague 
+
+![alt text](/screencaptureRAIFFAPP.png "RAIFF APP")
