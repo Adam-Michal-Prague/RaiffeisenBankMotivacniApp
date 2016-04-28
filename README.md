@@ -1,3 +1,3 @@
-# RaiffeinsenBankMotivacniApp
-Motivacni aplikace pro HR Raiffeinsenbank
+# RaiffeisenBankMotivacniApp
+Motivacni aplikace pro HR Raiffeisenbank
 bz @Adam-Michal-Prague
